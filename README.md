@@ -6,4 +6,4 @@ Source program in Program
 ## Environment
 Python, C and Java
 ## Run
-run **_test, such as TSQ_test
+run **_test.py, such as TSQ_test.py
