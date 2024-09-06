@@ -4,6 +4,6 @@ Source test case in data
 ## Experimental Program
 Source program in Program
 ## Environment
-Python and Java
+Python, C and Java
 ## Run
 run **_test, such as TSQ_test
